@@ -1,5 +1,5 @@
-
-  "client":[
+{
+   "client":[
       {
          "id":1,
          "company_name":"TestCo",
@@ -11,3 +11,4 @@
          "client_name":"TestClient2"
       }
    ]
+}
